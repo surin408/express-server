@@ -1,0 +1,6 @@
+docker build -t express-server:dev .
+docker run -d --name express-server -p 3000:3000 express-server:dev
+docker stop express-server
+
+docker run -d --name mongodb -p 27017:27017 mongo
+mongodb://localhost:27017/mean-docker
