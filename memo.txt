@@ -1,4 +1,14 @@
 
+## 2021/08/31 :-
+VI :-
+Escape
+i
+:q!
+:wq
+
+docker build --no-cache -t express-server .
+
+
 ## 2021/08/29 :-
 First commit of EXPRESS-SERVER
 
