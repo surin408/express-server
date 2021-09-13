@@ -1,5 +1,14 @@
+### express-server :-
+### 2021/08/31 :-
 
-## 2021/08/31 :-
+# 2021/09/13 :-
+git remote remove origin
+git remote add origin https://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@github.com/surin408/express-server.git
+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
+
+
+
+# 2021/09/13 :-
 VI :-
 Escape
 i
@@ -9,7 +18,7 @@ i
 docker build --no-cache -t express-server .
 
 
-## 2021/08/29 :-
+# 2021/08/29 :-
 First commit of EXPRESS-SERVER
 
 
